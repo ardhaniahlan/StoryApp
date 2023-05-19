@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Halaman Login & Halaman Regis-->
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="username">Nama pengguna</string>
+    <string name="register">Daftar</string>
+    <string name="daftar">Belum punya akun? <b>Daftar</b>.</string>
+    <string name="masuk">Sudah punya akun? <b>Masuk</b>.</string>
+    <string name="sukses">Sukses</string>
+    <string name="oke">Oke</string>
+    <string name="gagal">Gagal</string>
+    <string name="gagal_masuk">Gagal Masuk! Silahkan coba lagi</string>
+    <string name="berhasil">Daftar berhasil!</string>
+    <string name="bergagal">Daftar gagal!</string>
+    <string name="coba_lagi">Coba lagi</string>
+    <string name="email_tidak_valid">Email tidak valid</string>
+    <string name="minimal_8digit">Sandi minimal 8 digit</string>
+    <string name="minimal_3digit">Nama pengguna minimal 3 digit</string>
+    <string name="masukan_email">Masukan Email</string>
+    <string name="masukan_password">Masukan Sandi</string>
+    <string name="masukan_username">Masukan Nama Pengguna</string>
+    <string name="diisi">File harus diisi!</string>
+
+    <!--    StoryActivity.kt-->
+    <string name="halaman_story">Daftar Cerita</string>
+
+    <!--    ProfileActivity.kt-->
+    <string name="profil">Profil</string>
+    <string name="anda_keluar">Anda keluar Aplikasi</string>
+    <string name="terimakasih">Terima Kasih</string>
+    <string name="bahasa">Bahasa</string>
+
+    <!--    DetailStoryActivity.kt-->
+    <string name="detail_cerita">Detail Cerita</string>
+
+    <string name="kamera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="unggah">Unggah</string>
+    <string name="deskripsi">Deskripsi cerita...</string>
+
+    <string name="title_activity_maps">Peta</string>
+    <string name="berhasil_upload">Unggah Berhasil</string>
+    <string name="masukan_gambar">Masukan berkas terlebih dahulu!</string>
+    <string name="listgagal">Silahkan masuk ulang!</string>
+    <string name="lokasi_gagal">Nyalahkan lokasi terlebih dahulu!</string>
+    <string name="lokasi_izin">Izin ditolak</string>
+    <string name="retry">Coba lagi</string>
+
+
+
+</resources>

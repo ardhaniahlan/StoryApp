@@ -1,0 +1,58 @@
+<resources>
+    <!--    Halaman Login & Halaman Regis-->
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="daftar">Don\'t have an account yet? <b>Register.</b></string>
+    <string name="masuk">Already have an account? <b>Login.</b></string>
+    <string name="sukses">Success</string>
+    <string name="oke">Ok</string>
+    <string name="gagal">Failed</string>
+    <string name="gagal_masuk">Login Failed!, please try again!</string>
+    <string name="berhasil">Register Success!</string>
+    <string name="bergagal">Register Failed!</string>
+    <string name="coba_lagi">Try Again</string>
+    <string name="email_tidak_valid">Invalid Email</string>
+    <string name="minimal_8digit">Minimum 8 digit password</string>
+    <string name="minimal_3digit">Minimum 3 digit username</string>
+    <string name="masukan_email">Input Email</string>
+    <string name="masukan_password">Input Password</string>
+    <string name="masukan_username">Input Username</string>
+    <string name="diisi">Files are required!</string>
+
+
+    <!--    StoryActivity.kt-->
+    <string name="halaman_story">List Stories</string>
+
+    <!--    ProfileActivity.kt-->
+    <string name="profil">Profile</string>
+    <string name="anda_keluar">You exit the Application</string>
+    <string name="terimakasih">Thanks</string>
+    <string name="bahasa">Language</string>
+
+    <!--    DetailStoryActivity.kt-->
+    <string name="detail_cerita">Story Details</string>
+
+    <string name="kamera">Camera</string>
+    <string name="galeri">Gallery</string>
+    <string name="unggah">Upload</string>
+    <string name="deskripsi">Story Description....</string>
+
+    <string name="berhasil_upload">Upload Success</string>
+    <string name="masukan_gambar">Input the file first!</string>
+
+    <string name="listgagal">Please re-login!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="format_location" translatable="false">%1$f, %2$f</string>
+    <string name="lokasi_gagal">Turn on your location first!</string>
+    <string name="lokasi_izin">Permit denied</string>
+    <string name="retry">Retry</string>
+
+
+
+
+</resources>
